@@ -27,6 +27,9 @@ Description
 To complete this project, you must submit a Task Service zipped folder containing the following deliverables:
 
 Task.java
+
 TaskService.java
+
 TaskTest.java
+
 TaskServiceTest.java

@@ -33,3 +33,8 @@ TaskService.java
 TaskTest.java
 
 TaskServiceTest.java
+
+# Reflection
+I admit being overwhelmed when initally reading the textbook chapter assigned last week that included all of the options for unit testing. My work in Module 3 reflects simple, functional testing while maintaining 100% coverage. However, the principles became more familiar the more I used them (shocker). This assignment is, essentially, the same as the one in Module 3 and was designed to be a repetative way to cement the main tennents. Despite being initally overwhelmed, I achieved a 100% on the assignment; so, I chose to challenge myself this week and apply more advanced techniques to improved the cleaness and organization of my tests. I see the potential scaling of JUnit testing and how adventagious it can be when you run a test and see which specific logic in your code is causing issues with compilation or type errors (or any errors). These two assignments have shifted my comprehension of testing code: I will be a better programmer and engineer as I continue to thrive in my Computer Science program. 
+
+'G
